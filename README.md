@@ -64,7 +64,9 @@ https://files.fm/u/f8yjkdd3m3
 Game hardware (ardunio breadboard)
 https://files.fm/u/d98rcnkhb5
 
-Image from game 
+Images from game 
 
 ![image](https://github.com/user-attachments/assets/525810b9-59a6-4d7d-a1f0-a06ffd6c12e6)
+
+![image](https://github.com/user-attachments/assets/f9b4f72d-17c8-4469-8fa0-b4dff6ddd0f2)
 
